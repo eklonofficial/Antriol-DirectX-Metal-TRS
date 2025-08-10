@@ -10,6 +10,7 @@ body:
       label: macOS Version
       description: What version of macOS are you running?
       options:
+        - "Tahoe (macOS 26)"
         - "Sequoia (macOS 15)"
         - "Sonoma (macOS 14)"
         - "Ventura (macOS 13)"
@@ -34,7 +35,8 @@ body:
     attributes:
       label: Wrapper Version
       options:
-        - "Wineskin-3.1.8"
+        - "Template-1.0"
+        - "Wineskin-3.1.8 (not supported)"
         - "Wineskin-3.1.7_2 (not supported)"
         - "Wineskin-3.1.7_1 (not supported)"
         - "Wineskin-3.1.7 (not supported)"
@@ -65,7 +67,7 @@ body:
         - "WS12WineCX23.7.1_2 (not supported)"
         - "WS12WineCX23.7.1_1 (not supported)"
         - "WS12WineCX23.7.1 (not supported)"
-        - "WS12WineKegworks10.0-battle.net (not supported)"
+        - "WS12WineSikarugir10.0-battle.net (not supported)"
         - "WS12WhiskyWine2.5.0_2 (not supported)"
         - "WS12WhiskyWine2.5.0_1 (not supported)"
         - "WS12WhiskyWine2.5.0 (not supported)"
