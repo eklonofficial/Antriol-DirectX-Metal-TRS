@@ -50,17 +50,16 @@ This project supports *macOS 10.15.4* or later.
 <br>
 
 ## Components that fall under LGPL-2.1 license
-- `Winery.app` (renamed/tweaked Wineskin Winery)
-- `Wineskin.app` (tweaked for Sikarugir)
+- `Configure.app` (modified version of  `Wineskin.app`)
+- `Creator.app` (modified version of `Wineskin Winery.app`)
 
-sources can be found https://github.com/Gcenx/wineskin-source/tree/Sikarugir
+~~sources can be found https://github.com/Gcenx/wineskin-source/tree/Sikarugir~~ sources will be provodes when the apps are available.
 
 <br>
 
 ## Components that don't fall under LGPL-2.1 license
-_Creator-1.0/Wineskin-3.0.6-1 or greater_
+_master wrappers Template-1.0/Wineskin-3.0.6-1 or greater_
 - `Launcher` (Running in wineskin compatibility mode)
-- `Configure` (replaced `Wineskin.app`)
 
 <br>
 
