@@ -4,10 +4,6 @@ This project supports *macOS 10.15.4* or later.
 
 <br>
 
-## Currently updating all urls/branding and will upload replacent apps when there complete.
-
-<br>
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/gcenx)
 
 <br>
