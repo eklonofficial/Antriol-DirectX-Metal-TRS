@@ -15,7 +15,12 @@ This project supports *macOS 10.15.4* or later.
 > brew upgrade
 > brew install --cask Sikarugir-App/sikarugir/sikarugir
 > ```
-
+>
+> Apple Silicon systems also require Rosetta2
+> ```
+> /usr/sbin/softwareupdate --install-rosetta --agree-to-license
+> ```
+> 
 <br>
 
 [![How to Play PC Games on Mac with SIKARUGIR – Step-by-Step Guide](/images/IMG_0921.png)](http://www.youtube.com/watch?v=pCgYxRPIqjE&t=23s)
