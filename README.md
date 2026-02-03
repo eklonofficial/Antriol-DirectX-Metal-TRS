@@ -58,7 +58,6 @@ This project supports *macOS 10.15.4* or later.
 
 ## Components that fall under LGPL-2.1 license
 - `Configure.app` (modified version of  `Wineskin.app`)
-- `Creator.app` (modified version of `Wineskin Winery.app`)
 
 Sources can be found https://github.com/Sikarugir-App/Sikarugir-foss-sources
 
@@ -67,6 +66,7 @@ Sources can be found https://github.com/Sikarugir-App/Sikarugir-foss-sources
 ## Components that don't fall under LGPL-2.1 license
 _master wrappers Template-1.0/Wineskin-3.0.6-1 or greater_
 - `Sikarugir Launcher` (Running in wineskin compatibility mode)
+- `Creator.app` (v1.0.1 and greater)
 
 <br>
 
