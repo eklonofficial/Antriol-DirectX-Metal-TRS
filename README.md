@@ -1,31 +1,6 @@
-# Sikarugir
-A wrapper project that's the successor to Wineskin\
+# Antriol DirectX/Metal Translator
+A wrapper project that's the successor to Whisky\
 This project supports *macOS 10.15.4* or later.
-
-<br>
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/gcenx)
-[![](https://dcbadge.limes.pink/api/server/hD48GFpWz5?compact=true)](https://discord.gg/NTrT4QUvVS)
-
-<br>
-
-> [!NOTE]
-> How to install using [homebrew](https://brew.sh/)
-> ```
-> brew upgrade
-> brew install --cask Sikarugir-App/sikarugir/sikarugir
-> ```
->
-> Apple Silicon systems also require Rosetta2
-> ```
-> /usr/sbin/softwareupdate --install-rosetta --agree-to-license
-> ```
-> 
-<br>
-
-[![How to Play PC Games on Mac with SIKARUGIR – Step-by-Step Guide](/images/IMG_0921.png)](http://www.youtube.com/watch?v=pCgYxRPIqjE&t=23s)
-
-
 <br>
 
 > [!IMPORTANT]
@@ -71,7 +46,4 @@ _master wrappers Template-1.0/Wineskin-3.0.6-1 or greater_
 <br>
 
 ## Credits
-- [VitorMM](https://github.com/vitor251093) for modernizing the [Wineskin Codebase](https://github.com/vitor251093/wineskin) & [ObjectiveC_Extension](https://github.com/vitor251093/ObjectiveC_Extension) & writting Sikarugir-App from the ground up.
-- [PaulTheTall](https://www.paulthetall.com/) for constant test data and finding bugs.
-- doh123 for creating [Wineskin](https://web.archive.org/web/20141218081028/http://wineskin.urgesoftware.com/tiki-index.php).
-- [Gcenx](https://github.com/Gcenx) for maintaining the Wine Engines & upstream Winehq packages.
+Inspired by Whisky, developed by Andrew Marin
