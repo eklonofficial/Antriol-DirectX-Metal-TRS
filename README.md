@@ -1,4 +1,4 @@
-# Antriol DirectX/Metal Translator
+# DirectX/Metal Translator
 A wrapper project that's the successor to Whisky\
 This project supports *macOS 10.15.4* or later.
 <br>
